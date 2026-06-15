@@ -26,4 +26,4 @@ A customer segmentation dashboard project built using Python and Data Analytics 
 - Streamlit / Power BI
 
 ## Author
-Keerthi Balakrishnan
+Meenakshi.R
